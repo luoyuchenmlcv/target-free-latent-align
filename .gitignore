@@ -1,0 +1,22 @@
+# Training and evaluation outputs
+runs/
+
+# Python caches and environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Notebook and editor state
+.ipynb_checkpoints/
+.vscode/
+.idea/
+
+# Logs and local credentials
+*.log
+.env
+.env.*
+wandb/
+
+# OS metadata
+.DS_Store
